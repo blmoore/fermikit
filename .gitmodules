@@ -22,3 +22,6 @@
 [submodule "hapdip"]
 	path = hapdip
 	url = https://github.com/lh3/hapdip
+[submodule "minimap2"]
+	path = minimap2
+	url = https://github.com/lh3/minimap2
